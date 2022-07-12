@@ -1,7 +1,6 @@
 # OpenCss
 
-
-    - Created in **1 min 29 seconds** 
+- Created in **1 min 29 seconds** 
 
 
 
