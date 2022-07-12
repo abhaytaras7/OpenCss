@@ -1,0 +1,77 @@
+#main {
+
+  color: violet;
+
+  font-size: 100px;
+  font-family: 'Pacifico';
+  text-align: center;
+}
+
+#trollbtn {
+
+  background-color: tomato;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+
+
+body {
+  background-image: url("Images/0018.jpg");
+  background-image: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+
+
+
+
+
+#passtaker {
+
+  color: tomato;
+
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+  padding-bottom: 5rem;
+}
+
+
+table {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.testtext {
+
+  color: navy;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+
+  font-style: oblique;
+  text-align: center;
+
+  text-decoration: dashed;
+
+}
